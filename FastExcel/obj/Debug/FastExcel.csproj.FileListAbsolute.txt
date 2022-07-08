@@ -1,0 +1,9 @@
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\bin\Debug\FastExcel.dll
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\bin\Debug\FastExcel.pdb
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\bin\Debug\ExcelDna.IntelliSense.dll
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\bin\Debug\ExcelDna.Registration.dll
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\bin\Debug\ExcelDna.Registration.pdb
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\obj\Debug\FastExcel.csprojAssemblyReference.cache
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\obj\Debug\FastExcel.csproj.CopyComplete
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\obj\Debug\FastExcel.dll
+D:\Sergey\МАКРОСЫ\220623 ExcelDNA\FastExcel\obj\Debug\FastExcel.pdb
